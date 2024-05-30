@@ -57,5 +57,4 @@ const read = (req, res) => {
 };
 
 // Export it to import it somewhere else
-
-module.exports = { browse, read };
+module.exports = {browse, read};
